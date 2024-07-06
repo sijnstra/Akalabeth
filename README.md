@@ -9,3 +9,6 @@ Instead of using the original Apple II version, I started with Nanochess's GW-BA
 
 ## Status
 So far it seems to mostly work as expected, so I'm sharing it. I expect there will be some bugs, and of course it could be improved with more colour and the addition of sound.
+
+## Screenshot
+![Akalabeth play](SkeletonCapture.PNG)
