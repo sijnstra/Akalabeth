@@ -23,7 +23,19 @@ Instead of using the original Apple II version, I started with Nanochess's GW-BA
 So far it seems to mostly work as expected, so I'm sharing it. I expect there will be some bugs, and of course it could be improved with more colour and the addition of sound, but that would be a different game.
 
 ## Gameplay and Instruction
-You'll want a copy of the original manual to understand the terrain. There are a number of different game manuals around, including the versions on the (Internet Archive/Museaum of Computer Adventure Game History)[https://archive.org/details/vgmuseum_origin_akalabeth-manual/mode/2up] along with an (even older version on the MoCAGH)[https://www.mocagh.org/origin/akalabethcomputerland-manual.pdf]. The changed keys are explained in the game itself (I've added some extra code to show what keys do what). 
+You'll want a copy of the original manual to understand the terrain. There are a number of different game manuals around, including the versions on the (Internet Archive/Museaum of Computer Adventure Game History)[https://archive.org/details/vgmuseum_origin_akalabeth-manual/mode/2up] along with an (even older version on the MoCAGH)[https://www.mocagh.org/origin/akalabethcomputerland-manual.pdf]. The changed keys are explained in the game itself (I've added some extra code to show what keys do what). Gameplay includes:
+<li>Character creation including stats and class</li>
+<li>Using shops to buy food and weapons</li>
+<li>Exploring above ground to find dungeons or the castle</li>
+<li>Exploring dungeons and fighting the bad guys</li>
+<li>Venturing in to the Castle!</li>
 
-Screenshot from the game:
-![Akalabeth play](SkeletonCapture.PNG)
+## Screenshots
+Starting out above ground:
+![Akalabeth Above Ground](LuckyStartCapture.PNG)
+
+Fighting a Skeleton:
+![Akalabeth Skeleton fight](SkeletonCapture.PNG)
+
+Defeating a Skeleton:
+![Akalabeth Skeleton defeated](SkeletonBeatenCapture.PNG)
